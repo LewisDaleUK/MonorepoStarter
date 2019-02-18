@@ -1,0 +1,8 @@
+{
+  "name": "@monorepostarter/helpers",
+  "version": "1.0.0",
+  "description": "Package containing helper functions",
+  "main": "index.ts",
+  "author": "Lewis Dale",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.6.0"
+  },
+  "scripts": {
+    "build": "lerna run --stream --scope core build",
+    "start": "lerna run --stream --scope core start",
+    "test": "jest"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

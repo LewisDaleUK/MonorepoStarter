@@ -1,0 +1,8 @@
+{
+  "name": "@monoreporstarter/definitions",
+  "version": "0.0.1",
+  "description": "Package containing constant definitions",
+  "main": "index.ts",
+  "author": "Lewis Dale",
+  "license": "MIT"
+}
